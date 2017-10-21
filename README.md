@@ -10,13 +10,14 @@ The easy solution is to just download this version of blender www.mikeberadino.c
     - pip.main(['install', 'WHATEVER PACKAGE U NEED'])
     
 The process on the Arduino side is to:
--Flash the .ino file onto your Arduino compatible mico-controller via the Arduino IDE. Make note of the serial port you are using 
+-Flash the .ino file onto your Arduino compatible mico-controller via the Arduino IDE. 
 
-ie. (/dev/cu/usbmodem1411)
+Make note of the serial port you are using 
+-ie. (/dev/cu/usbmodem1411)
 
 -Check that all is well, open the serial monitor 
-    - tools>serialmonitor 
-    - type H or L to toggle led on pin 13
+    -tools>serialmonitor 
+    -type H or L to toggle led on pin 13
 
 
 The process on the Blender side is to:
