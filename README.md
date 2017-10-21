@@ -10,8 +10,8 @@ This is working on Linux/Mac using Blender v2.78.
 - Drop pip into bin folder (try the one in this repository) or Download get-pip.py 
 - In the Blender console 
     
-    >> import pip
-    >> pip.main(['install', 'pySerial'])
+    - import pip
+    - pip.main(['install', 'pySerial'])
 
 
 The .ino can be installed on to your arduino compatable mico controller.
