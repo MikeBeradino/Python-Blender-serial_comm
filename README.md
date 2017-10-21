@@ -13,7 +13,7 @@ The process on the Arduino side is to:
 -Flash the .ino file onto your Arduino compatible mico-controller via the Arduino IDE. 
 
 Make note of the serial port you are using 
--ie. (/dev/cu/usbmodem1411)
+-ie. /dev/cu/usbmodem1411
 
 -Check that all is well, open the serial monitor 
     -tools>serialmonitor 
@@ -37,5 +37,3 @@ https://blender.stackexchange.com/questions/56011/how-to-use-pip-with-blenders-b
 https://blender.stackexchange.com/questions/81957/blender-2-78c-on-centos-python-environment)
 I have confirmed that this works on  Linux/Mac using Blender v2.78a (not v2.78/b/c..)  
 http://download.blender.org/release/Blender2.78/
-
-
