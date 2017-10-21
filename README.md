@@ -1,10 +1,17 @@
 # python_blender_serial
 Using Blender to control a Arduino micro controller via serial communication.
 
-This is working on Linux/Mac using Blender v2.78. blender-2.78-OSX_10.6-x86_64.zip
+This is working on Linux/Mac using Blender v2.78 (DONT USE v2.78a/b/c..)  http://download.blender.org/release/Blender2.78/
 
 - Open your Blender /Contents/Resources/usr/lib/blender/2.78/python/bin/
 - Drop pip into bin folder (try the one in this repository) or Download get-pip.py 
+
+- Open Blender /Contents/Resources/2.78/python/lib/python3.5/
+- Unzip Pip.zip
+- Drop pip floder into python3.5
+
+- Open Blender
+
 - In the Blender console 
     
     - import pip
