@@ -1,7 +1,7 @@
 # python_blender_serial
 
 
-The easy solution is to just download this version of blender. It has PIP installed as well as pySerial.  
+The easy solution is to just download this version of blender www.mikeberadino.com/blender/blender_2.78_with_pip.zip. It has PIP installed as well as pySerial.  
 
 Using Blender to control a Arduino micro controller via serial communication.
 
