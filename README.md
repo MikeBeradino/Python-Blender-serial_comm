@@ -22,9 +22,9 @@ ie. (/dev/cu/usbmodem1411)
 The process on the Blender side is to:
 - Open the .blend file in Blender
 - Verify that your baud rate / serial port are correct in the 
-- on.py 
-- off.py 
-- Arduino.py
+    - on.py 
+    - off.py 
+    - Arduino.py
 - Press the start button under the standalone player. 
 - W & S will move the test cube and trigger serial events.
 
