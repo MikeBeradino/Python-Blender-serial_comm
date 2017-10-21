@@ -7,7 +7,7 @@ The easy solution is to just download this version of blender www.mikeberadino.c
 - Open Blender
 - In the Blender console 
     - import pip
-    - pip.main(['install', 'WHATEVER PACKAGE U NEEDl'])
+    - pip.main(['install', 'WHATEVER PACKAGE U NEED'])
     
 The process on the Arduino side is to:
 -Flash the .ino file onto your Arduino compatible mico-controller via the Arduino IDE. Make note of the serial port you are using 
